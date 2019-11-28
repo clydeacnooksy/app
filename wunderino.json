@@ -1,9 +1,9 @@
-{
+ro{
   "app": {
     "title": "Wunderino Tic",
     "imagePath": "https://raw.githubusercontent.com/clydeacnooksy/app/master/Wunderino.jpg",
     "linkPath": "https://record.wildaffiliates.com/_TlcUVzduOtJD3TEmsPWI0WNd7ZgqdRLk/1/?payload=a_1231",
-    "linkAction": "#web",
+    "linkAction": "#browser",
     "afid": "mf4GTqTUhfdP8C35Xan87G"
   }
 }
